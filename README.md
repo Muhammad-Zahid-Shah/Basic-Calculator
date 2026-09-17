@@ -56,6 +56,6 @@ This project was created to improve my understanding of:
 
 **Muhammad Zahid Shah**
 
-Beginner C++ Programmer | Future Computer Science Student
+Beginner C++ Programmer | BS Computer Science Student
 
 ⭐ Thank you for visiting my repository!
